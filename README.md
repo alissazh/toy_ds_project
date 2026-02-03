@@ -1,4 +1,3 @@
 # toy_ds_project
-In class demo, version control
+project creation date: 02/02/2026
 
-- demo pen tool
